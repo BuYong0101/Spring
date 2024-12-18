@@ -1,0 +1,5 @@
+package com.choibu.web.controller.notice;
+
+public class DetailController {
+
+}
